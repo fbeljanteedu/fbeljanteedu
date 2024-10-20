@@ -37,7 +37,7 @@ Soy **Fran**, apasionado de los videojuegos de temática retro, el fútbol, y la
 
 ![Lenguajes y herramientas de programación con experiencia](https://skillicons.dev/icons?i=html,css,js,ts,angular)  
 
-#### En proceso de aprendizaje...  
+#### En proceso de aprendizaje:  
 
 ![Lenguajes y herramientas de programación en progreso de aprendizaje](https://skillicons.dev/icons?i=java,mysql,git)
 
@@ -49,4 +49,4 @@ Soy **Fran**, apasionado de los videojuegos de temática retro, el fútbol, y la
 <br>
 <br>
 
-Sprites gracias a ![Sprites](http://www.videogamesprites.net/Buttons/PlainButton.gif)
+Sprites gracias a [![Sprites](http://www.videogamesprites.net/Buttons/PlainButton.gif)](http://www.videogamesprites.net/)
